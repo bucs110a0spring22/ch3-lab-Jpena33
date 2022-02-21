@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+The two turtle objects named Michelangelo and Leonardo race each other in Part A. They first use a single call forward, then race each other in ten calls forward using a for loop. In Part B, the Leonardo turtle object draws an equilateral triangle, square, hexagon, nonagon, and dodecagon using a for loop for each shape. 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+No known bugs or incomplete parts. 
 
 ## REFERENCES:
- < List any outside resources used >
-
+https://runestone.academy/ns/books/published/thinkcspy/PythonTurtle/TheforLoop.html
+https://runestone.academy/ns/books/published/thinkcspy/PythonTurtle/TherangeFunction.html
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ Nothing of importance to note. 
